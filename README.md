@@ -1,4 +1,4 @@
-AIChat is a full-stack AI chatbot application built using Spring Boot, Spring AI, **Ollama**, and **React + Vite**.  
+AIChat is a full-stack AI chatbot application built using **Spring Boot**, **Spring AI**, **Ollama**, and **React + Vite**.  
 The backend connects with a locally running Ollama model and exposes an API that the frontend can use to send user prompts and display AI-generated responses.
 
 ## Tech Stack
