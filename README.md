@@ -86,8 +86,8 @@ cd AIChat/AIChat
 Install and run Ollama, then pull a model:
 
 ```bash
-ollama pull llama3
-ollama run llama3
+ollama pull qwen2.5:0.5b
+ollama run qwen2.5:0.5b
 ```
 
 ### 3. Run Backend
@@ -165,10 +165,3 @@ GitHub: [Deepshikha-Mohanty](https://github.com/Deepshikha-Mohanty)
 ## License
 
 This project is open-source and available for learning and development purposes.
-
-```
-```
-
-Your repo currently has a Spring Boot project with a React/Vite frontend, and the backend uses Spring AI with Ollama through `/api/ollama/{message}`. ([GitHub][1])
-
-[1]: https://github.com/Deepshikha-Mohanty/AIChat/tree/main/AIChat/src/main/Frontend/frontend "AIChat/AIChat/src/main/Frontend/frontend at main · Deepshikha-Mohanty/AIChat · GitHub"
