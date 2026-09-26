@@ -155,13 +155,3 @@ public ResponseEntity getAnswer(@PathVariable String message) {
 * Add model selection option
 * Add authentication
 * Deploy frontend and backend
-
-## Author
-
-**Deepshikha Mohanty**
-
-GitHub: [Deepshikha-Mohanty](https://github.com/Deepshikha-Mohanty)
-
-## License
-
-This project is open-source and available for learning and development purposes.
